@@ -1,0 +1,328 @@
+{
+  "main": {
+    "id": "c9c4637b7bb14a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7746ec3717a6c90",
+        "type": "tabs",
+        "dimension": 23.736513344690515,
+        "children": [
+          {
+            "id": "9a621410dc1b311a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/01 本体／生物结构/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "72902eac449880ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e40b15d9e7b28aae",
+        "type": "tabs",
+        "dimension": 37.819420783645654,
+        "children": [
+          {
+            "id": "958fdd8398397cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B28 在下肢的基础型变异/1B28.2 足部阴茎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1B28.2 足部阴茎"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a14c17c5cf1949cd",
+        "type": "split",
+        "dimension": 38.44406587166383,
+        "children": [
+          {
+            "id": "554aedaa314c1fe0",
+            "type": "tabs",
+            "dimension": 55.122494432071264,
+            "children": [
+              {
+                "id": "2f0504ca33b38be8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Z 收录进度 自用.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Z 收录进度 自用"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6c8e583fda09f271",
+            "type": "tabs",
+            "dimension": 44.877505567928736,
+            "children": [
+              {
+                "id": "f856f5c04877d94b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/Z 缓存区 自用.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Z 缓存区 自用"
+                }
+              },
+              {
+                "id": "3278c13c2ce55e2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "md_model/词条模板 图片.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "词条模板 图片"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "350231037ef9f90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "42bc44d34cf16c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe3e0ba8fa39f5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f8d669f88423995a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "19c27a57f565b90d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5026054382324
+  },
+  "right": {
+    "id": "42e628549e10795d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fc6da62c502fe9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a41a725437338d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/01 本体／生物结构/1生物种类/1普通种族/1A01 人类.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1A01 人类 的反向链接列表"
+            }
+          },
+          {
+            "id": "002c0c1f5ce65981",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/01 本体／生物结构/1生物种类/1普通种族/1A01 人类.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1A01 人类 的出链列表"
+            }
+          },
+          {
+            "id": "ff714c4f181c6630",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e4b3f01cdffd8501",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7ebc242eb2ac85c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/01 本体／生物结构/1生物种类/1普通种族/1A01 人类.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1A01 人类 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "958fdd8398397cb9",
+  "lastOpenFiles": [
+    "sticker.pdn",
+    "sticker.pdn.0.pdnSave",
+    "site/search/search_index.json",
+    "site/search",
+    "site/分类方法历史版本/V0.2 编号分类/index.html",
+    "site/分类方法历史版本/V0.2 编号分类",
+    "site/分类方法历史版本/V0.1 编号分类/index.html",
+    "site/分类方法历史版本/V0.1 编号分类",
+    "site/分类方法历史版本",
+    "site/Y 附属词/XD 拓扑学量表值/XD02 侧性/XD02.04 未特指的单侧/index.html",
+    "site/Y 附属词/XD 拓扑学量表值/XD02 侧性/XD02.04 未特指的单侧",
+    "site/assets/images/favicon.png",
+    "site/images/favicon.png",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B27 在上肢的基础型变异/1B27.2 手指阴茎.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B27 在上肢的基础型变异/1B27.1 手部阴茎.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.8 复根.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.5 爆丸.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.A 马根.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B22 在颈部的基础型变异/1B22.1 颈部阴茎.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.2 在耳部的基础型变异/1B21.22 耳部阴茎.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.2 在耳部的基础型变异/1B21.21 尖耳朵.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.3 在眼部的基础型变异/1B21.31 单眼.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.3 在眼部的基础型变异/1B21.32 三只眼.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.6 头部阴茎化.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.5 在嘴部的基础型变异/1B21.42 舌头阴茎.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B21 在头部的基础型变异/1B21.5 在嘴部的基础型变异/1B21.41 嘴部阴道.md",
+    "md_model/词条模板 图片.md",
+    "md_model/原创提示.md",
+    "md_model/R18警告.md",
+    "md_model/R18G警告.md",
+    "md_model/词条模板 画作.md",
+    "docs/Z 缓存区 自用.md",
+    "docs/Z 收录进度 自用.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B3 改变型变异/未命名.md",
+    "docs/01 本体／生物结构/index.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.9 巨阴蒂.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.6 超丸.md",
+    "docs/01 本体／生物结构/1B 身体结构/1B2 基础型变异/1B25 在生殖区的基础型变异/1B25.4 巨丸.md"
+  ]
+}

@@ -1,7 +1,7 @@
 # xp-taxonomy
 XP 词条分类项目第一期
 
-主站进：[https://furinalt.github.io/xp-taxonomy/site/]
+主站进：https://furinalt.github.io/xp-taxonomy/site/
 
 # 前言
 

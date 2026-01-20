@@ -1,4 +1,6 @@
-![Image title](./images/title.png){ width="600" }
+<div align="center">
+<img src='./images/title.png' alt='图片' style='max-width: 300; max-height: 400;'>
+</div>
 
 # xp-taxonomy
 XP 词条分类项目第一期

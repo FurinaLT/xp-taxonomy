@@ -13,4 +13,6 @@ C2 编写中...失败。
 
 项目开始时间：2026-1-4
 
-统计时间：18.5 H
+统计时间：19 H
+
+<p style="text-align:center;color:gray;font-size:0.8rem">下方字幕</p>

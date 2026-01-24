@@ -3,7 +3,7 @@ import re
 import pyperclip
 
 DOCS_DIR = "docs"
-
+FILE_NUM = 0
 
 def title_from_name(name: str, is_file: bool, parent_dir: str = None) -> str:
     """
@@ -68,9 +68,12 @@ def build_nav(current_path: str, docs_root: str, parent_dir: str = None):
 
 
 def dump_yaml(nav_items, indent=2):
+    global FILE_NUM
+
     lines = ["nav:"]
 
     def walk(items, level):
+        global FILE_NUM
         space = " " * level
         for item in items:
             for key, value in item.items():
@@ -78,6 +81,7 @@ def dump_yaml(nav_items, indent=2):
                     lines.append(f"{space}- {key}:")
                     walk(value, level + indent)
                 else:
+                    FILE_NUM += 1
                     lines.append(f"{space}- {key}: {value}")
 
     walk(nav_items, indent)
@@ -90,5 +94,4 @@ if __name__ == "__main__":
 
     pyperclip.copy(yaml_text)
 
-    print("✅ MkDocs nav 已生成（已复制到剪贴板）\n")
-    print(yaml_text)
+    print(f"✅ MkDocs nav 已生成（已复制到剪贴板）\n文件数量: {FILE_NUM}")

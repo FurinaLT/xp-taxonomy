@@ -8,6 +8,12 @@ XP 词条分类项目第一期
 
 主站进：https://furinalt.github.io/xp-taxonomy/site/
 
+> 本项目目前仍在建设中，待整体结构稳定后，可能会补充 i18n 多语言支持。
+> This project is still under active development.  
+> Once the overall structure is stable, i18n (multi-language support) may be added.
+> このプロジェクトは現在も開発中です。  
+> 全体の構成が安定した後、i18n（多言語対応）を追加する可能性があります。
+
 # 前言
 
 在相当长的一段时间里，XP 类词汇都处在一种“被不断创造，却从未被系统整理”的状态中。
@@ -138,3 +144,28 @@ A: 会的，这些词条在发展初期可能数量太少了，之后会陆续�
 Q: Q&A那么少，作者是不是去偷懒了
 
 A: 对的T^T，不会写文章甚至前言是AI写的
+
+## Also known as
+
+This project may be searched or referred to as:
+
+- XP大全
+- XP合集
+- XP词典
+
+(可能非正式或错误命名)
+
+- 性癖大全
+- 性癖合集
+- 性癖词典
+
+(其他语言)
+
+- XP Dictionary
+- XP Collection
+- Sexual Fetish Dictionary
+- Sexual Fetish Collection
+- 性的フェチ辞典
+- 性的フェチのコレクション
+- XP辞書
+- XPコレクション

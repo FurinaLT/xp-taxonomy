@@ -1,0 +1,16 @@
+??? note "全部索引词"
+	- Half-up
+
+## 参考图片
+
+<div align="center">
+<img src='https://storage.moegirl.org.cn/moegirl/commons/5/5a/Amedama-nanako-1.jpg!/fw/280?v=20140702161941' alt='图片' style='max-width: 300; max-height: 400;'>
+</div>
+
+## 简介
+
+**Half-up**（日语：**ハーフアップ**），是一种发型，也是[ACG](https://mzh.moegirl.org.cn/ACG "ACG")[次文化](https://mzh.moegirl.org.cn/%E6%AC%A1%E6%96%87%E5%8C%96 "次文化")中的**[萌属性](https://mzh.moegirl.org.cn/%E8%90%8C%E5%B1%9E%E6%80%A7 "萌属性")**之一。
+
+Half-up是长发一类的发型，指让部分头发在背后自然垂下，另一部分发束在头后贴头编起或束起，覆盖住垂下的那部分头发。编起或束起的头发若较短，可以仅留在头后；若较长，多出的部分也可垂下。[^1]
+
+[^1]: [Half-up - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/Half-up). 2026-01-27

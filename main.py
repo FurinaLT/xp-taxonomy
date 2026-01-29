@@ -94,4 +94,4 @@ if __name__ == "__main__":
 
     pyperclip.copy(yaml_text)
 
-    print(f"✅ MkDocs nav 已生成（已复制到剪贴板）\n文件数量: {FILE_NUM}")
+    print(f"✅ MkDocs nav 已生成（已复制到剪贴板）\n文件数量: {FILE_NUM}\n词条数量: {FILE_NUM - 59}")

@@ -6,7 +6,7 @@
       {
         "id": "d7746ec3717a6c90",
         "type": "tabs",
-        "dimension": 28.054298642533936,
+        "dimension": 23.47972972972973,
         "children": [
           {
             "id": "9a621410dc1b311a",
@@ -21,54 +21,54 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "d5582d5ea57d08af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/02 外貌与视觉特征(缓滞推进)/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ]
       },
       {
         "id": "5d8634101a395a47",
         "type": "tabs",
-        "dimension": 34.841628959276015,
+        "dimension": 45.4954954954955,
         "children": [
           {
-            "id": "ab144158f7e07552",
+            "id": "aa2cb6378ebb2824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Z 其他的东西/Z+ 暂存区.md",
+                "file": "docs/Wiki编写规则(给编写人员看的).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z+ 暂存区"
+              "title": "Wiki编写规则(给编写人员看的)"
             }
           },
           {
-            "id": "13669765214b5979",
+            "id": "cfba5ced3461fcb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/前言.md",
+                "file": "docs/01 本体／生物结构/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前言"
+              "title": "index"
+            }
+          },
+          {
+            "id": "eb22561ecf73b03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/01 本体／生物结构/2身体结构/1体积或形态变化/1B1B 整体形态变化/1B1B.0 巨大娘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1B1B.0 巨大娘"
             }
           }
         ],
@@ -77,7 +77,7 @@
       {
         "id": "a14c17c5cf1949cd",
         "type": "split",
-        "dimension": 37.10407239819005,
+        "dimension": 31.024774774774777,
         "children": [
           {
             "id": "554aedaa314c1fe0",
@@ -134,6 +134,20 @@
                 }
               },
               {
+                "id": "373b1fead46d921c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "md_model/Z方便复制.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Z方便复制"
+                }
+              },
+              {
                 "id": "3278c13c2ce55e2a",
                 "type": "leaf",
                 "state": {
@@ -146,8 +160,23 @@
                   "icon": "lucide-file",
                   "title": "C词条模板 画作"
                 }
+              },
+              {
+                "id": "d66ed60bc6be769a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "md_model/B词条模板 图片.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "B词条模板 图片"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -314,49 +343,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13669765214b5979",
+  "active": "ebe3e0ba8fa39f5d",
   "lastOpenFiles": [
-    "docs/Z 其他的东西/Z+ 暂存区.md",
-    "docs/01 本体／生物结构/1A 生物种类/1A0 普通种族/1A01 人类/1A01.0 扶她.md",
-    "docs/Z 其他的东西/Z 参考资料/Z1 服装/Z1.3 服装变体详解.md",
-    "docs/01 本体／生物结构/1A 生物种类/1A0 普通种族/1A01 人类/1A01.1 Cuntboy.md",
-    "docs/index.md",
-    "docs/前言.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/index.md",
-    "docs/Z 其他的东西/Z 参考资料/Z1 服装/Z1.2 服装分类应用.md",
-    "docs/Z 其他的东西/Z 缓存区 自用.md",
-    "docs/Z 其他的东西/Z 参考资料/Z1 服装/Z1.1 服装分类.md",
-    "docs/Z 其他的东西/Z 收录进度 自用.md",
-    "docs/01 本体／生物结构/index.md",
-    "docs/03 行为模式/index.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/6强概括性词汇",
-    "docs/Z 其他的东西/Z 参考资料/Z1 服装/Z1.4 详解2.md",
-    "docs/Z 其他的东西/Z 参考资料/Z1 服装",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/3表组成/6杀死童贞服.md",
-    "docs/Z 其他的东西/Z 参考资料",
-    "docs/Z 其他的东西/未命名.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/5服装材质",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/5服装材质/1透明服装.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/3表组成/5拘束服.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/x其他特指",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/B礼服&正装/2花嫁和服.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/5文化着装/1日式/1和服/花嫁和服.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/B礼服&正装/1婚纱.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/5文化着装/1日式/2花魁服.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/3表组成/4露脐装.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/B礼服&正装",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/4服装状态/1反重力裙.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/3表组成/3紧身衣.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/4服装状态",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/A其他cosplay/2奶牛装.md",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/A其他cosplay",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/A其他cosplay/1布偶装",
-    "docs/02 外貌与视觉特征(缓滞推进)/3服装/2应用场景/9家居服",
-    "docs/01 本体／生物结构/2身体结构/未命名.canvas",
-    "docs/images/title-v2.png",
-    "docs/images/title.png",
-    "Pasted image 20260120112621.png",
+    "site/search/search_index.json",
+    "site/search",
+    "site/Z 其他的东西/分类方法历史版本/V0.2 编号分类/index.html",
+    "site/Z 其他的东西/分类方法历史版本/V0.2 编号分类",
+    "site/Z 其他的东西/分类方法历史版本/V0.1 编号分类/index.html",
+    "site/Z 其他的东西/分类方法历史版本/V0.1 编号分类",
+    "site/Z 其他的东西/分类方法历史版本",
+    "site/Z 其他的东西/Z 参考资料/Z1 服装/Z1.4 详解2/index.html",
+    "site/Z 其他的东西/Z 参考资料/Z1 服装/Z1.4 详解2",
+    "site/Z 其他的东西/Z 参考资料/Z1 服装/Z1.3 服装变体详解/index.html",
+    "site/Z 其他的东西/Z 参考资料/Z1 服装/Z1.3 服装变体详解",
+    "site/assets/images/title.png",
+    "site/assets/images/title-v2.webp",
     "site/assets/images/favicon.png",
-    "site/images/favicon.png"
+    "site/assets/images/favicon-bat.png",
+    "docs/01 本体／生物结构/index.md",
+    "docs/Wiki编写规则(给编写人员看的).md",
+    "docs/01 本体／生物结构/2身体结构/1体积或形态变化/1B1B 整体形态变化/1B1B.0 巨大娘.md",
+    "docs/index.md",
+    "docs/Z 其他的东西/Z 收录进度 自用.md",
+    "docs/01 本体／生物结构/2身体结构/index.md",
+    "docs/03 行为模式/index.md",
+    "docs/前言.md",
+    "docs/01 本体／生物结构/1生物种类/9科幻种族/1A83 人造人.md",
+    "md_model/C词条模板 画作.md",
+    "md_model/Z方便复制.md",
+    "docs/01 本体／生物结构/1生物种类/9科幻种族/1A82 人格化兵器.md",
+    "docs/01 本体／生物结构/1生物种类/9科幻种族/1A83 机娘.md",
+    "docs/01 本体／生物结构/1生物种类/9科幻种族/1A81 克隆人.md",
+    "docs/01 本体／生物结构/1生物种类/1普通种族/1A01 人类/1A01.0 扶她.md",
+    "docs/01 本体／生物结构/1生物种类/8魔法物质／元素种族/1A73 史莱姆.md",
+    "docs/01 本体／生物结构/1生物种类/8魔法物质／元素种族/1A72 元素精灵.md",
+    "docs/01 本体／生物结构/1生物种类/8魔法物质／元素种族/1A71 人偶(种族).md",
+    "docs/01 本体／生物结构/1生物种类/7不死种族/1A61 僵尸.md",
+    "docs/01 本体／生物结构/1生物种类/7不死种族/1A62 吸血鬼/index.md",
+    "md_model/B词条模板 图片.md",
+    "docs/01 本体／生物结构/1生物种类/7不死种族/1A62 吸血鬼/1A62.0 半吸血鬼.md",
+    "docs/01 本体／生物结构/1生物种类/6魔鬼种族/1A55 哥布林.md",
+    "docs/01 本体／生物结构/1生物种类/6魔鬼种族/1A54 魔族.md",
+    "docs/01 本体／生物结构/1生物种类/6魔鬼种族/1A53 魅魔.md",
+    "docs/assets/images/favicon.png",
+    "docs/assets/images/sharpicons_database.png",
+    "docs/assets/images/favicon-bat.png",
+    "docs/assets/images/title-v2.webp",
+    "docs/assets/images/title.png",
+    "docs/01 本体／生物结构/2身体结构/未命名.canvas",
+    "docs/images/title-v2.png"
   ]
 }

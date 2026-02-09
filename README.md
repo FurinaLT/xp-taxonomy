@@ -1,5 +1,5 @@
 <div align="center">
-<img src='./docs/images/title-v2.webp' alt='图片' style='max-height: 400;'>
+<img src='./docs/assets/images/title-v2.webp' alt='图片' style='max-height: 400;'>
 </div>
 
 # xp-taxonomy

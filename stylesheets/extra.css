@@ -1,0 +1,202 @@
+/* 提示样式修改 */
+
+/* .md-typeset .admonition,
+.md-typeset details {
+    border-width: 0;
+    border-left-width: 4px;
+} */
+
+/* 上下图标修改 */
+
+/* :root {
+    --icon-top: url('data:image/svg+xml;utf8,<svg t="1770220882098" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6619" width="200" height="200"><path d="M470.016 976.896q-44.032 0-59.392-20.48t-15.36-65.536q0-20.48-0.512-64.512t-1.024-93.696-1.536-96.768-1.024-74.752q0-39.936-7.68-62.464t-35.328-21.504q-20.48 0-48.64-1.024t-49.664 0q-35.84 0-45.568-19.456t13.824-50.176q24.576-30.72 57.344-72.704t67.584-86.016 68.096-87.04 58.88-75.776q23.552-29.696 45.568-30.72t46.592 26.624q24.576 29.696 56.832 69.632t67.072 82.432 68.608 83.968 60.416 73.216q29.696 35.84 23.04 58.88t-43.52 23.04q-11.264 0-25.088 0.512t-29.184 1.024-30.208 1.024-27.136 0.512q-25.6 1.024-32.256 16.384t-5.632 41.984q0 29.696 0.512 77.824t1.024 100.352 1.536 101.376 1.024 79.872q0 13.312-2.048 27.648t-9.728 26.112-21.504 19.968-36.352 8.192q-27.648 0-52.736 0.512t-56.832 1.536z" p-id="6620"></path></svg>');
+    --icon-down: url('data:image/svg+xml;utf8,<svg t="1770220838604" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="6461" width="200" height="200"><path d="M564.224 44.032q43.008 0 58.368 20.48t15.36 65.536q0 20.48 0.512 64.512t0.512 93.696 0.512 96.768 0.512 74.752q0 38.912 7.68 61.952t35.328 22.016q19.456 0 48.128 1.024t49.152 1.024q35.84 0 45.568 18.944t-13.824 49.664q-24.576 30.72-57.344 72.704t-68.096 86.016-69.12 86.528-59.392 75.264q-23.552 29.696-45.568 30.72t-45.568-27.648q-24.576-29.696-57.344-69.632t-67.072-82.432-67.584-83.968-59.904-74.24q-29.696-35.84-22.528-58.88t44.032-23.04l24.576 0q14.336 0 29.696-0.512t30.208-1.536 26.112-1.024q26.624 0 32.768-15.36t6.144-41.984q0-29.696-0.512-77.824t-0.512-100.352-0.512-101.376-0.512-79.872q0-13.312 2.048-27.648t9.728-26.112 20.992-19.456 36.864-7.68q27.648 0 53.248-0.512t57.344-0.512z" p-id="6462"></path></svg>')
+}
+
+.md-typeset .admonition.top,
+.md-typeset details.top {
+    border-color: rgb(0, 149, 186);
+}
+
+.md-typeset .top>.admonition-title,
+.md-typeset .top>summary {
+    background-color: rgba(0, 149, 186, 0.1);
+}
+
+.md-typeset .top>.admonition-title::before,
+.md-typeset .top>summary::before {
+    background-color: rgb(0, 149, 186);
+    -webkit-mask-image: var(--icon-top);
+    mask-image: var(--icon-top);
+}
+
+.md-typeset .top>.admonition-title::before,
+.md-typeset .top>summary::before {
+    width: 1.2rem;
+    height: 1.2rem;
+
+    -webkit-mask-size: 70% 70%;
+    mask-size: 70% 70%;
+
+    -webkit-mask-position: center;
+    mask-position: center;
+
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+
+    left: .5rem;
+    top: .3rem
+}
+
+.md-typeset .admonition.down,
+.md-typeset details.down {
+    border-color: rgb(0, 149, 186);
+}
+
+.md-typeset .down>.admonition-title,
+.md-typeset .down>summary {
+    background-color: rgba(0, 149, 186, 0.1);
+}
+
+.md-typeset .down>.admonition-title::before,
+.md-typeset .down>summary::before {
+    background-color: rgb(0, 149, 186);
+    -webkit-mask-image: var(--icon-down);
+    mask-image: var(--icon-down);
+}
+
+.md-typeset .down>.admonition-title::before,
+.md-typeset .down>summary::before {
+    width: 1.2rem;
+    height: 1.2rem;
+
+    -webkit-mask-size: 70% 70%;
+    mask-size: 70% 70%;
+
+    -webkit-mask-position: center;
+    mask-position: center;
+
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+
+    left: .48rem;
+    top: .3rem
+} */
+
+/* 自定义图标内列表修改 */
+
+.md-typeset .grid.cards ul li ul {
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.md-typeset .grid.cards ul li li {
+    display: list-item;
+    float: left;
+    position: relative;
+    margin-bottom: 0;
+    padding-left: 1em;
+    margin-left: 0.3em;
+}
+
+.md-typeset .grid.cards ul li li::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+    top: 45%;
+    transform: translateY(-50%);
+    font-size: 0.9em;
+    color: currentColor;
+}
+
+.md-typeset .grid.cards ul li li:first-child {
+    margin-left: 0;
+    padding: 0;
+}
+
+.md-typeset .grid.cards ul li li:first-child::before {
+    content: "";
+}
+
+
+
+/* .md-typeset .admonition.abstract ul,
+.md-typeset details.abstract ul {
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.md-typeset .admonition.abstract li,
+.md-typeset details.abstract li {
+    display: list-item;
+    float: left;
+    position: relative;
+    margin-bottom: 0;
+    padding-left: 1em;
+    margin-left: 0.3em;
+}
+
+.md-typeset .admonition.abstract li::before,
+.md-typeset details.abstract li::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+    top: 45%;
+    transform: translateY(-50%);
+    font-size: 0.9em;
+    color: currentColor;
+}
+
+.md-typeset .admonition.abstract li:first-child,
+.md-typeset details.abstract li:first-child {
+    margin-left: 0;
+    padding: 0;
+}
+
+.md-typeset .admonition.abstract li:first-child::before,
+.md-typeset details.abstract li:first-child::before {
+    content: "";
+} */
+
+
+
+.md-typeset .admonition.info ul,
+.md-typeset details.info ul {
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.md-typeset .admonition.info li,
+.md-typeset details.info li {
+    display: list-item;
+    float: left;
+    position: relative;
+    margin-bottom: 0;
+    padding-left: 1em;
+    margin-left: 0.3em;
+}
+
+.md-typeset .admonition.info li::before,
+.md-typeset details.info li::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+    top: 45%;
+    transform: translateY(-50%);
+    font-size: 0.9em;
+    color: currentColor;
+}
+
+.md-typeset .admonition.info li:first-child,
+.md-typeset details.info li:first-child {
+    margin-left: 0;
+    padding: 0;
+}
+
+.md-typeset .admonition.info li:first-child::before,
+.md-typeset details.info li:first-child::before {
+    content: "";
+}

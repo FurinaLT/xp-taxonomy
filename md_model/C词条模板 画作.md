@@ -17,7 +17,7 @@
 ???+ info "邻接概念"
 	- 
 
-???+ abstract "全部索引词[^1][^2][^3]"
+???+ abstract "全部索引词"
     <div class="grid cards" style="grid-template-columns: repeat(2, 1fr); gap: 1rem;" markdown>
 
 	-   __中文__ 

@@ -1,0 +1,1 @@
+<p style="text-align:center;color:gray;font-size:0.8rem">我是文本</p>

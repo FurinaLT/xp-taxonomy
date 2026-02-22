@@ -12,31 +12,7 @@
 
 # 使用方法
 
-XP 词条分类项目第一期
-
 主站进：https://furinalt.github.io/xp-taxonomy/site/
 
-# Also known as
+最重要的一点：如果直接点击分类标签上的文字，会直接进入该分类页面，如果旁边有箭头点击即可下拉/进入该分类的子级。
 
-This project may be searched or referred to as:
-
-- XP大全
-- XP合集
-- XP词典
-
-(可能非正式或错误命名)
-
-- 性癖大全
-- 性癖合集
-- 性癖词典
-
-(其他语言)
-
-- XP Dictionary
-- XP Collection
-- Sexual Fetish Dictionary
-- Sexual Fetish Collection
-- 性的フェチ辞典
-- 性的フェチのコレクション
-- XP辞書
-- XPコレクション

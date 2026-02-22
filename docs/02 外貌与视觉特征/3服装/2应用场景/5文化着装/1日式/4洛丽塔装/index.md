@@ -1,14 +1,50 @@
-??? note "全部索引词"
-	- 洛丽塔
-	- 洛丽塔装
+<div class="grid cards" style="grid-template-columns: repeat(2, 1fr); gap: 1rem;" markdown>
 
-## 参考图片
-
-<div align="center">
-<img src='https://storage.moegirl.org.cn/moegirl/commons/b/b0/Yamada_Elf.png!/fw/280?v=20161002080708' alt='图片' style='max-width: 300; max-height: 400;'>
+-   :fontawesome-solid-circle-up:{ .lg .middle } __上位__ 
+    
+    ---
+    
+    - 原宿风格24系[*?]
+    - 欧洲洛可可时期时装[*?]
+    
+-   :fontawesome-solid-circle-down:{ .lg .middle } __下位__
+    
+    ---
+    
+    - 哥特萝莉装
+  
 </div>
 
+???+ abstract "全部索引词"
+    <div class="grid cards" style="grid-template-columns: repeat(2, 1fr); gap: 1rem;" markdown>
+
+	-   __中文__ 
+    
+	    ---
+	    
+	    - 洛丽塔装
+	
+	-   __英文__ 
+    
+	    ---
+	    
+	    - lolita fashion
+	    - lolita clothing
+	
+	-   __日文__ 
+    
+	    ---
+	    
+	    - ロリータ・ファッション
+
+	</div>
+
 ## 简介
+
+!!! quote inline end "图片参考"
+	<div align="center">
+	<img src='https://storage.moegirl.org.cn/moegirl/commons/b/b0/Yamada_Elf.png!/fw/280?v=20161002080708' alt='图片' style='max-width: 300; max-height: 400;'>
+	</div>
 
 **洛丽塔装**（英语：**lolita fashion / lolita clothing**；日语：**ロリータ・ファッション**）是八九十年代风靡日本的一种服装风格，由欧洲宫廷礼服改良而来，也是[ACG](https://mzh.moegirl.org.cn/ACG "ACG")[次文化](https://mzh.moegirl.org.cn/%E6%AC%A1%E6%96%87%E5%8C%96 "次文化")中的萌属性。
 

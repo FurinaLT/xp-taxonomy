@@ -100,7 +100,7 @@
     margin-left: 0.3em;
 }
 
-.md-typeset .grid.cards ul li li::before {
+.md-typeset .grid.cards.words ul li li::before {
     content: "■";
     position: absolute;
     left: 0;
@@ -115,7 +115,7 @@
     padding: 0;
 }
 
-.md-typeset .grid.cards ul li li:first-child::before {
+.md-typeset .grid.cards.words ul li li:first-child::before {
     content: "";
 }
 

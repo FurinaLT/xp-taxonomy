@@ -157,11 +157,14 @@
 !!! question "什么是“全部索引词”？"
 	方便用户搜索的时候定位到这个词条，也可以理解为是词条的别称、同义词之类的
 
+!!! question "什么是“邻接概念”？"
+	与该词意思非常相近但可能同级或不同级的词条放在这里，在之后如果上下位部分的展示功能增加，这个东西可能会撤掉
+
+### 多路径
+
+一个词条可能会存在多个不同领域的路径，为了保证词条信息的完整性和详细性，首先会选择词条最明显或者是在当前文化中最合适的路径作为在文件夹中的路径，然后在词条文档中添加其他路径。
+
 ## 其他提示
 
 - 在简介前的奇奇怪怪的信息中，如果给某个词条后加上 `[?*]` 就代表待指定的意思，使用情况为此词条指定的某个区域未完成、指定的词条待决定等。
   例如死鱼眼词条前的信息框中，因为在当时行为模式这个大分类还没有写到，所以就使用 `行为模式[?*]` 的方式来表示待制定，在之后可以直接搜索 `[?*]` 这个东西就可以跳转到这里进行调整。
-
-![Written-By-Human-Not-By-AI-Badge-white](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-white.png#only-light){ align=right }
-
-![Written-By-Human-Not-By-AI-Badge-white](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-black.png#only-dark){ align=right }

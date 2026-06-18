@@ -1,0 +1,23 @@
+{
+  "产生性质\\index.md": {
+    "id": 1,
+    "batch_folder": "0",
+    "new_name": "1.md",
+    "new_path": "0/1.md",
+    "abs_source": "works\\产生性质\\index.md"
+  },
+  "学术性质\\index.md": {
+    "id": 3,
+    "batch_folder": "0",
+    "new_name": "3.md",
+    "new_path": "0/3.md",
+    "abs_source": "works\\学术性质\\index.md"
+  },
+  "普遍性质\\index.md": {
+    "id": 2,
+    "batch_folder": "0",
+    "new_name": "2.md",
+    "new_path": "0/2.md",
+    "abs_source": "works\\普遍性质\\index.md"
+  }
+}

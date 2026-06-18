@@ -1,0 +1,108 @@
+site_name: XP 分类项目 | 第二期
+site_url: https://furinalt.github.io/xp-taxonomy/site/
+site_author: 曦涟Elysielle
+site_description: >-
+  XP 分类项目 | 第二期
+
+repo_name: xp-taxonomy
+repo_url: https://github.com/FurinaLT/xp-taxonomy
+
+theme:
+  name: material
+  language: zh
+  favicon: assets/images/favicon.png
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    - navigation.instant # 即时加载
+    - navigation.instant.progress # 进度指示器
+    - navigation.sections
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top # 返回顶部
+    - navigation.footer
+    - navigation.tabs
+    - navigation.path # 面包屑
+    # - navigation.prune # 导航修剪
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+    - content.icons
+  
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default # 配色方案
+    primary: indigo # 主色调
+    accent: deep purple # 强调色
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: black
+    accent: deep purple
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+
+font:
+  text: Roboto Slab
+  code: Roboto Mono
+icon:
+  repo: fontawesome/brands/github
+  logo: fontawesome/solid/cube
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  - md_in_html
+  - footnotes
+  - toc:
+      permalink: true
+      title: 章节目录
+
+plugins:
+  - search
+  - glightbox
+  - minify
+  - graph
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  icons:
+    - fontawesome
+  extra:
+
+copyright: >
+  本站部分内容来源于第三方知识库，依据
+  <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank">CC BY-NC-SA 3.0 CN</a>
+  许可协议使用，原始来源与是否修改已在各词条中标明。
+
+nav:
+  - 首页:
+    - 前言: index.md
+  - 产生性质:
+    - 产生性质: 0/1.md
+  - 学术性质:
+    - 学术性质: 0/3.md
+  - 普遍性质:
+    - 普遍性质: 0/2.md

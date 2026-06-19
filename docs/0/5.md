@@ -1,0 +1,28 @@
+<i class="id">5</i>
+
+| 全部索引词  |            |
+| ------ | ---------- |
+| **中文** | 吸纳         |
+| **英文** | absorption |
+| **日文** | 摂取         |
+
+
+| 关系     |          |     |
+| ------ | -------- | --- |
+| **上位** | **直接性质** |     |
+|        | **衍生性质** |     |
+|        | **影响性质** |     |
+| **下位** | **直接性质** |     |
+|        | **衍生性质** |     |
+|        | **影响性质** |     |
+
+## 描述
+
+!!! quote inline end "参考"
+	<div align="center">
+		<img src='https://blue-butterfly-8b37.spicyl114514.workers.dev/202606/1781851269.webp' alt='Image' style='max-width: 300; max-height: 400;'>
+	</div>
+
+吸收某物或某人的行为。可能由吞噬或逆生触发。[^1]
+
+[^1]: [https://ehwiki.org/wiki/absorption](https://ehwiki.org/wiki/absorption). 2026-06-19

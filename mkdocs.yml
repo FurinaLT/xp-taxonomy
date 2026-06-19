@@ -18,9 +18,9 @@ theme:
     - header.autohide
     - navigation.instant # 即时加载
     - navigation.instant.progress # 进度指示器
-    - navigation.sections
+    - navigation.sections # 章节折叠
     - navigation.tracking
-    - navigation.indexes
+    - navigation.indexes # 章节索引页
     - navigation.top # 返回顶部
     - navigation.footer
     - navigation.tabs
@@ -80,12 +80,12 @@ plugins:
   - search
   - glightbox
   - minify
-  - graph
-  - git-revision-date-localized:
-      fallback_to_build_date: true
+  # - graph
+  # - git-revision-date-localized:
+  #     fallback_to_build_date: true
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   icons:
@@ -102,7 +102,38 @@ nav:
     - 前言: index.md
   - 产生性质:
     - 产生性质: 0/1.md
+    - 物种与身体结构:
+      - 身体结构:
+        - 身体结构-数量:
+          - 身体结构-数量: 0/10.md
+          - 额外口: 0/7.md
+          - 额外眼: 0/6.md
+          - 额外阴茎: 0/8.md
+          - 额外阴道: 0/13.md
+    - 行为与表现:
+      - 表现:
+        - 阿黑颜: 0/15.md
+      - 行为:
+        - 摄取:
+          - 摄取: 0/5.md
+          - 丸吞: 0/18.md
+        - 贯穿:
+          - 贯穿: 0/16.md
+          - 穿刺: 0/17.md
   - 学术性质:
     - 学术性质: 0/3.md
+    - 医学:
+      - 疾病:
+        - 白化病: 0/16.md
+      - 解剖学:
+        - 头颈部:
+          - 口: 0/9.md
+          - 眼: 0/12.md
+        - 躯干:
+          - 生殖系统:
+            - 阴茎: 0/11.md
+            - 阴道: 0/14.md
   - 普遍性质:
     - 普遍性质: 0/2.md
+    - 行为:
+      - 堕胎: 0/4.md

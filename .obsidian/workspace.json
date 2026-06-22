@@ -49,8 +49,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9dd04dc62b485bfb",
+  "active": "339510ccb1f894f4",
   "lastOpenFiles": [
     "site/css/graph.css",
     "site/css",

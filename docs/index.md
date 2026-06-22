@@ -27,6 +27,12 @@
 > 本站使用/搬运了绝大部分萌娘百科、维基百科词条文章的内容片段，在这里衷心感谢各位编写者。
 > 本wiki中所有图片都来自网络，如有侵权联系管理员删除
 
+## 注释
+
+比如我们拿futa这个标签来举例，会看到B站有一大堆对其进行理论分析、结构拆解、哲学思考、精神分析、社会学解构、深度解构、过解构的内容，比如[为什么柔弱的小女孩能成为扶她榜第一？｜兰得想了004_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u4qYBeEhY?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-97qjn.1782121282376.958&vd_source=9695680135bbeb1d850005ccfd750f6c)、[[精神分析4]解析几种性癖：ntr、扶她、恋姐、恋妹、SM、病娇、恋尸、人兽、出轨、多人运动_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pWFseeErU?spm_id_from=333.788.recommend_more_video.4&trackid=web_related_0.router-related-2479604-97qjn.1782121439343.197&vd_source=9695680135bbeb1d850005ccfd750f6c)这些视频，当然不是诋毁，而是我想表明：
+
+**收录的词条内并没有对其进行深度解析的内容**，因为词量太多，所以我裁剪的都是简单的介绍以及客观概括的内容。如果你想添加某个词条，或者是想丰富某个词条的内容，欢迎在 Github issues 中反馈，或者是给管理员（我）发送私人邮箱！（网站底下应该有的）
+
 ## 关系
 
 在摒弃了 [Tim2354](https://space.bilibili.com/360215933?spm_id_from=333.337.0.0) 的上下位分类法后，我们采用了更好的方法进行关系的展示。

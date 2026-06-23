@@ -1,7 +1,8 @@
 # 前言
 
 !!! danger "R18G & R18 警告"
-	<p style="font-size: 1.5rem; color: red; font-weight: 700;">本 Wiki 绝大部分参考图包含 R18G 和 R18 内容，请谨慎阅读。</p>
+	**如果你开了梯子（或者VPN、加速器等网络代理）请注意**<p style="font-size: 1.5rem; color: red; font-weight: 700;">本 Wiki 绝大部分参考图包含 R18G 和 R18 内容，请谨慎阅读。</p>
+	因为没有代理看不了图片
 
 !!! info "前提+食用指南"
 	如果直接点击分类标签上的文字，会直接进入该分类页面，如果旁边有箭头点击即可下拉/进入该分类的子级。

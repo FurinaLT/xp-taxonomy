@@ -1,3 +1,21 @@
+> 本项目目前仍在建设中，待整体结构稳定后，可能会补充 i18n 多语言支持。
+> 
+> This project is still under active development.  
+> Once the overall structure is stable, i18n (multi-language support) may be added.
+> 
+> このプロジェクトは現在も開発中です。  
+> 全体の構成が安定した後、i18n（多言語対応）を追加する可能性があります。
+
+## 受众
+
+本网站**并不适合未开智人群**（包含但不限于低龄化、极易情绪化、排斥任何形态、串、恶意攻击、极右、弱智、恐怖主义等极端人群），因为网站正在初期，且内容未作任何年龄分级（虽然墙可以勉强防一下）。
+
+## 写作风格
+
+比如我们拿futa这个标签来举例，会看到B站有一大堆对其进行理论分析、结构拆解、哲学思考、精神分析、社会学解构、深度解构、过解构的内容，比如[为什么柔弱的小女孩能成为扶她榜第一？｜兰得想了004_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u4qYBeEhY?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-97qjn.1782121282376.958&vd_source=9695680135bbeb1d850005ccfd750f6c)、[[精神分析4]解析几种性癖：ntr、扶她、恋姐、恋妹、SM、病娇、恋尸、人兽、出轨、多人运动_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pWFseeErU?spm_id_from=333.788.recommend_more_video.4&trackid=web_related_0.router-related-2479604-97qjn.1782121439343.197&vd_source=9695680135bbeb1d850005ccfd750f6c)这些视频，当然不是诋毁，而是：
+
+网站内**收录的词条内并没有对其进行深度解析的内容**，因为词量太多，所以我裁剪的都是简单的介绍以及客观概括的内容。如果你想添加某个词条，或者是想丰富某个词条的内容，欢迎在 Github issues 中反馈，或者是给管理员（我）发送私人邮箱！（网站底下应该有的）
+
 ## 关系
 
 在摒弃了 [Tim2354](https://space.bilibili.com/360215933?spm_id_from=333.337.0.0) 的上下位分类法后，我们采用了更好的方法进行关系的展示。
@@ -43,6 +61,17 @@
 > 
 > 此外也有**跨界性质**的词汇，对于不同领域可以使用不同方式的解释方式的方法，在此情况下在词汇后加入括号+领域表示所在的性质。
 
+## 语言
+
+通常，每个词条固定有 3 个语言占位，分别是：中文、英文、日文，当然也可以在后期添加其他的语言。但是需要注意，默认的三个语言是固定的，不能删除和修改（例如把“日文”删除，或者把“英文”修改为“英语”）。
+
+添加语言需要注意语言声明格式，固定为 **语言前缀**（如日、缅甸、意大利等）+**“文”**。
+
+如果有混合的语言，例如 ciallo 为意大利语+英语，可以新增**“混合”**前缀。
+
+## 词条收录条件
+
+有独特意义且是有明确来源的词汇。在引用时需加上来源以及图片参考。
 
 ![Written-By-Human-Not-By-AI-Badge-white](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-white.png#only-light){ align=right }
 ![Written-By-Human-Not-By-AI-Badge-black](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-black.png#only-dark){ align=right }

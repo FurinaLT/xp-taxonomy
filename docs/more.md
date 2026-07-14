@@ -69,9 +69,39 @@
 
 如果有混合的语言，例如 ciallo 为意大利语+英语，可以新增**“混合”**前缀。
 
+## 文章情况
+
+在收录词条时，通常会遇到很多意想不到的情况，比如来源不明等情况。在这些情况下，收录的文章的结构会有所不同。
+
+### 占位
+
+占位情况的文章通常只有基础的编号、关系标识以及简介，简介也会只有简单的两字词汇“占位”表示此文章的作用仅占位。
+
+在收录的时候，会遇到某人只是单独提起的情况，在没有找到对应的图片（可能极为小众），而且没有找到相对应的解释时（可能根据词义就已经知晓其大概意思，但是如果没有相对应的图片也可以定性为占位文章），词条编写者则可以把这个词汇定性为**占位文章**。
+
+<del>或者只是太懒导致的</del>
+
+> 例子：[伤口奸](0/246.md)
+
 ## 词条收录条件
 
 有独特意义且是有明确来源的词汇。在引用时需加上来源以及图片参考。
+
+## 项目的新海报~
+
+<div align="center">
+<img src='/xp-taxonomy/site/assets/images/title.webp' alt='图片' style='max-height: 400;'>
+</div>
+
+## Q&A
+
+Q: 之后词条会更新吗。
+
+A: 会的。
+
+Q: 没搜到是不是我XP太小众了
+
+A: 有可能，但是大概率是网站在在发展初期词条的数量太少了，之后会陆续补上的。
 
 ![Written-By-Human-Not-By-AI-Badge-white](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-white.png#only-light){ align=right }
 ![Written-By-Human-Not-By-AI-Badge-black](/xp-taxonomy/site/assets/images/Written-By-Human-Not-By-AI-Badge-black.png#only-dark){ align=right }

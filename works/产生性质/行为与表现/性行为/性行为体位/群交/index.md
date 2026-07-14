@@ -1,10 +1,10 @@
 <i class="id">344</i>
 
-| 全部索引词  |           |
-| ------ | --------- |
-| **中文** | 群交, 乱交    |
-| **英文** |           |
-| **日文** | 乱交 (らんこう) |
+| 全部索引词  |            |
+| ------ | ---------- |
+| **中文** | 群交, 乱交, 多P |
+| **英文** |            |
+| **日文** | 乱交 (らんこう)  |
 
 
 | 关系     |                |
@@ -17,7 +17,7 @@
 
 !!! quote inline end "参考"
 	<div align="center">
-		<img src='https://blue-butterfly-8b37.spicyl114514.workers.dev/202606/' alt='Image' style='max-width: 300; max-height: 400;'>
+		<img src='https://blue-butterfly-8b37.spicyl114514.workers.dev/202607/147187057_p0_master1200.jpg' alt='Image' style='max-width: 300; max-height: 400;'>
 	</div>
 
 这个词指的是一群[男女](https://dic.pixiv.net/a/%E7%94%B7%E5%A5%B3)聚集在一起，与不明身份的异性成员发生[性行为](https://dic.pixiv.net/a/%E6%80%A7%E4%BA%A4) 。它也可以用来描述两名男性或两名女性之间的[同性](https://dic.pixiv.net/a/%E5%90%8C%E6%80%A7)性行为。
